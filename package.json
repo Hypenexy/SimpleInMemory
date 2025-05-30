@@ -1,0 +1,22 @@
+{
+  "name": "simpleinmemory",
+  "version": "1.0.0",
+  "description": "Simple In-Memory API for Managing Items",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hypenexy/SimpleInMemory.git"
+  },
+  "author": "Georgi Murlev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hypenexy/SimpleInMemory/issues"
+  },
+  "homepage": "https://github.com/Hypenexy/SimpleInMemory#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
